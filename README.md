@@ -25,12 +25,6 @@ NBA-Predictor/
 │   │   ├── data.csv              # Raw NBA game data
 │   │   ├── load_data.py          # Data loading utilities
 │   │   └── preprocess.py         # Data preprocessing pipeline
-│   ├── models/
-│   │   ├── model.py              # ML model definitions
-│   │   ├── train.py              # Model training scripts
-│   │   └── predict.py            # Prediction utilities
-│   └── utils/
-│       └── metrics.py            # Evaluation metrics
 ├── notebooks/
 │   └── 01-exploration.ipynb     # Data exploration and analysis
 ├── README.md
